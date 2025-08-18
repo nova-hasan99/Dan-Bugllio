@@ -300,10 +300,10 @@ export function ChatInterface() {
                     <Handshake className="w-6 h-6 text-green-600" />
                   </div>
                   <h3 className="font-semibold text-gray-800 mb-1">
-                    Parenting guidance
+                    Pain Freedom
                   </h3>
                   <p className="text-sm text-gray-600">
-                    Expert advice and strategies to help parents raise children and build strong family relationships.
+                    Demystifies chronic pain with mind-body practices inspired by Dr. Sarno; 2,000+ clients coached.
                   </p>
                 </div>
 
@@ -360,10 +360,10 @@ export function ChatInterface() {
                       <Handshake className="w-5 h-5 text-green-600" />
                     </div>
                     <h4 className="font-semibold text-gray-800 mb-1 text-sm">
-                      Parenting guidance
+                      Pain Freedom
                     </h4>
                     <p className="text-xs text-gray-600">
-                      Expert advice and strategies to help parents raise children and build strong family relationships.
+                      Demystifies chronic pain with mind-body practices inspired by Dr. Sarno; 2,000+ clients coached.
                     </p>
                   </div>
 
